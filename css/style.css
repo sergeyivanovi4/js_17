@@ -1,6 +1,9 @@
+.block {
+    margin: 20px;
+}
 h2:before {
     content: "📦";
     position: relative;
     display: inline;
-    margin-right: 10px;
+    margin-right: 15px;
 }
