@@ -1,0 +1,6 @@
+h2:before {
+    content: "📦";
+    position: relative;
+    display: inline;
+    margin-right: 10px;
+}
